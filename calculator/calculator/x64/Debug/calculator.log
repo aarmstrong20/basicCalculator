@@ -1,0 +1,7 @@
+﻿  calculator.cpp
+C:\Users\tazel\OneDrive\Documents\calculator\calculator\calulator.h(23,12): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+C:\Users\tazel\OneDrive\Documents\calculator\calculator\calulator.h(23,12): warning C4244:         with
+C:\Users\tazel\OneDrive\Documents\calculator\calculator\calulator.h(23,12): warning C4244:         [
+C:\Users\tazel\OneDrive\Documents\calculator\calculator\calulator.h(23,12): warning C4244:             T=int
+C:\Users\tazel\OneDrive\Documents\calculator\calculator\calulator.h(23,12): warning C4244:         ]
+  calculator.vcxproj -> C:\Users\tazel\OneDrive\Documents\calculator\x64\Debug\calculator.exe
